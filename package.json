@@ -18,7 +18,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.188.0",
+    "aws-sdk": "^2.279.1",
     "body-parser": "^1.17.2",
     "concurrently": "^3.5.0",
     "cookie-session": "^2.0.0-beta.2",
@@ -35,6 +35,7 @@
     "uuid": "^3.2.1"
   },
   "devDependencies": {
-    "delay": "^3.0.0"
+    "delay": "^3.0.0",
+    "ws": "3.3.2"
   }
 }
