@@ -6,6 +6,6 @@ module.exports = {
   mongoURI: 'mongodb://testUser_dev:password12@ds053216.mlab.com:53216/blog_dev',
   cookieKey: '123123123',
   redisUrl: 'redis://127.0.0.1:6379',
-  acessKeyId: 'AKIAJVIFC6HENKRT5YTQ',
+  accessKeyId: 'AKIAJVIFC6HENKRT5YTQ',
   secretAccessKey: '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'
 };
